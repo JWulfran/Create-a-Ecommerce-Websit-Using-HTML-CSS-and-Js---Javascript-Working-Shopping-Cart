@@ -23,12 +23,8 @@ The project includes a product listing page and a working shopping cart where us
 
 ## Screenshots
 
-Add a screenshot of your project here:
-
-```markdown
 ![Project Screenshot](./Ecom_pic.png)
 ![Cart](./Cart_Ecom_pic.png)
-```
 
 ## What I Learned
 
